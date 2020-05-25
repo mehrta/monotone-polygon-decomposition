@@ -1,0 +1,3 @@
+﻿c:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\CGAL\stdafx.h(16,10): fatal error C1083: Cannot open include file: 'CGAL/Simple_cartesian.h': No such file or directory

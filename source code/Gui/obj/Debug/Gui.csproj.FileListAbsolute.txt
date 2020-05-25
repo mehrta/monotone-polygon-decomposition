@@ -1,0 +1,11 @@
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\bin\Debug\Gui.exe.config
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\bin\Debug\Gui.exe
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\bin\Debug\Gui.pdb
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.FormAlgorithmParameters.resources
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.FormMain.resources
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.Properties.Resources.resources
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.exe
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\Gui\obj\Debug\Gui.pdb

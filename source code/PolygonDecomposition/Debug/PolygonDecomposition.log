@@ -1,0 +1,17 @@
+﻿c:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  geometry.cpp
+  MonotoneDecomposition.cpp
+  interface.cpp
+  main.cpp
+  simple_polygon.cpp
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\simple_polygon.cpp(39,27): warning C4101: 'current': unreferenced local variable
+  trapezoidal_decomposition.cpp
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\trapezoidal_decomposition.cpp(69,7): warning C4101: 'root_trap': unreferenced local variable
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\trapezoidal_decomposition.cpp(233,9): warning C4101: 'rnd1': unreferenced local variable
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\trapezoidal_decomposition.cpp(233,21): warning C4101: 'tmp': unreferenced local variable
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\trapezoidal_decomposition.cpp(233,15): warning C4101: 'rnd2': unreferenced local variable
+E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\trapezoidal_decomposition.cpp(547,8): warning C4101: 'previous_trap_x': unreferenced local variable
+  Generating Code...
+     Creating library E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\\Gui\Bin\Debug\MonotoneDecomposition.lib and object E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\\Gui\Bin\Debug\MonotoneDecomposition.exp
+  PolygonDecomposition.vcxproj -> E:\My Projects\PolygonDecomposition\PolygonDecomposition\PolygonDecomposition\\Gui\Bin\Debug\MonotoneDecomposition.dll
