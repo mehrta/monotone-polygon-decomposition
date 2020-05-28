@@ -1,0 +1,21 @@
+After compiling CGAL, do following actions:
+
+
+1. Add this "include directories" (.h files)
+	* VC++ Directories->Include Directories 
+	C:\dev\CGAL-4.1\include
+	C:\dev\boost_1_53_0
+	C:\dev\CGAL-4.1\auxiliary\gmp\include
+
+
+2. link this libraries to the project:
+	* Liner->Input->Additional dependencies
+	C:\dev\CGAL-4.1\build\lib\CGAL-vc110-mt-gd-4.1.lib
+	C:\dev\CGAL-4.1\auxiliary\gmp\lib\libgmp-10.lib
+
+	* VC++ Directories->Library Directories 
+		C:\dev\boost_1_53_0\stage\lib
+
+3. Add this line to the PATH envirement variable (Restart system to takes effect):
+	C:\dev\boost_1_53_0\stage\lib;C:\dev\CGAL-4.1\auxiliary\gmp\lib
+

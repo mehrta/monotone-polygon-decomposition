@@ -90,6 +90,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="CGAL Config.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
